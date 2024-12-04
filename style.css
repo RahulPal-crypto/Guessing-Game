@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    height:500px;
+    width:500px;
+    background-color:red;
+    border:2px solid balck;
+}
